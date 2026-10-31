@@ -96,6 +96,10 @@
 
 ![timeline](../assets/timeline.png)
 
+上文文献库工作的全景分布（双泳道：视觉校准主线 / 基础模型置信线）：
+
+![landscape](../assets/calibration_landscape.png)
+
 三个代际的关注点变化：
 
 1. **2016–2021「调平概率」**：MC Dropout、温度缩放、Deep Ensembles、证据学习、SNGP，核心问题是"ECE 怎么降"。

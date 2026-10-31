@@ -4,6 +4,10 @@
 > 文献底座为 2024–2026 年医学 AI 校准/不确定性方向的 **68 篇论文**，按"顶会 + 有源代码优先"的原则组织成可执行的阅读路线。
 
 <p align="center">
+  <img src="./assets/calibration_landscape.png" width="880">
+</p>
+
+<p align="center">
   <img src="./assets/roadmap.png" width="860">
 </p>
 
