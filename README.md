@@ -55,6 +55,8 @@
 
 # 🧭 01 · 方法全景
 
+> 先看执行手册：**开工清单与五阶段步骤 → [docs/00-task-plan.md](docs/00-task-plan.md)**
+
 完整版（含选型矩阵、失效分析、决策树、演进时间线）→ **[docs/01-methods.md](docs/01-methods.md)**
 
 十三族方法一图速览：
@@ -192,6 +194,7 @@ Confidence-Calibration-Roadmap/
 ├── README.md                  ← 你在这里
 ├── assets/                    ← 全景图 / 时间线
 ├── docs/
+│   ├── 00-task-plan.md        ← 开工清单与执行步骤（先看这个）
 │   ├── 01-methods.md          ← 方法梳理与对比（核心）
 │   ├── 02-papers.md           ← P0~P3 优先级清单
 │   ├── 03-labs.md             ← 国内外实验室地图
