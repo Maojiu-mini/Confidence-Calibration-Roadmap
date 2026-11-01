@@ -57,6 +57,7 @@
 
 > 先看执行手册：**开工清单与五阶段步骤 → [docs/00-task-plan.md](docs/00-task-plan.md)**
 > 一个人做：**单人 21 天路线（3 篇论文 / 3 个团队 / 3 个数据集）→ [docs/solo-plan.md](docs/solo-plan.md)**
+> 交差前先看：**完成度自评与最小可交差清单 → [STATUS.md](STATUS.md)**
 
 完整版（含选型矩阵、失效分析、决策树、演进时间线）→ **[docs/01-methods.md](docs/01-methods.md)**
 
