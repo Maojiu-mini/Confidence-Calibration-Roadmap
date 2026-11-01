@@ -56,6 +56,7 @@
 # 🧭 01 · 方法全景
 
 > 先看执行手册：**开工清单与五阶段步骤 → [docs/00-task-plan.md](docs/00-task-plan.md)**
+> 一个人做：**单人 21 天路线（3 篇论文 / 3 个团队 / 3 个数据集）→ [docs/solo-plan.md](docs/solo-plan.md)**
 
 完整版（含选型矩阵、失效分析、决策树、演进时间线）→ **[docs/01-methods.md](docs/01-methods.md)**
 
@@ -195,6 +196,7 @@ Confidence-Calibration-Roadmap/
 ├── assets/                    ← 全景图 / 时间线
 ├── docs/
 │   ├── 00-task-plan.md        ← 开工清单与执行步骤（先看这个）
+│   ├── solo-plan.md           ← 单人 21 天执行路线
 │   ├── 01-methods.md          ← 方法梳理与对比（核心）
 │   ├── 02-papers.md           ← P0~P3 优先级清单
 │   ├── 03-labs.md             ← 国内外实验室地图
